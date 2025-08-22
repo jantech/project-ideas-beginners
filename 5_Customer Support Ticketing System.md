@@ -155,10 +155,9 @@ Replies (
 
 | Layer         | Recommended Tech                            |
 | ------------- | ------------------------------------------- |
-| Frontend      | React + Tailwind CSS                        |
+| Frontend      | HTML,CSS,JAVASCRIPT + Tailwind CSS + DaisyUI                       |
 | Backend       | Node.js + Express            |
 | Database      | MySQL                       |
 | Auth          | JWT-based Auth                |
-| Notifications | In-app, optional email (e.g. Nodemailer)    |
 
 ---
